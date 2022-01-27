@@ -6,6 +6,7 @@ from pydantic import BaseModel, conlist
 
 
 #some comment
+# aaa
 
 app = FastAPI(title="Predicting Wine Class with batching")
 
